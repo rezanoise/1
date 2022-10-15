@@ -1,8 +1,3 @@
-این روش در حال حاضر مسدود شده است.
-🔴 لطفا ویدیو جدید را ببینید:
-https://youtu.be/6W7Ixph-PCo
-
-------------------
 
 راه اندازی سرور فیلترشکن شخصی
 
@@ -14,9 +9,7 @@ https://youtu.be/6W7Ixph-PCo
 
 cd /tmp/ && yum install git -y && git clone https://github.com/AlefbeMedia/Personal-vpn.git && cd Personal-vpn/ && sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh && ./centos7.sh 
 
-دستورات زیر برای اضافه کردن کاربر به سرور:
+د:
 
 useradd [username] - 
-passwd [username]
-
-با لایک و کامنت این ویدیو از ما حمایت کنید. ❤🌹
+passwd [username]. ❤🌹
